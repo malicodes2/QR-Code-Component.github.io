@@ -1,0 +1,35 @@
+body{
+    background-color: lightblue;
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
+.container{
+    background-color: lightblue;
+}
+
+.card{
+    border-radius: 15px;
+}
+
+img{
+    border-radius: 15px;
+}
+
+h5{
+    font-size: 18px;
+}
+
+p{
+    font-size: 13px;
+    font-weight: bold;
+    font-family: "Outfit";
+    color: gray;
+}
